@@ -1,4 +1,4 @@
-# laplace
+# Laplace integration method and its precision
 A short examination of the precision of the laplace integration method often used in actuarial mathematics in Denmark
 
 I was interested in the question of how good the Laplace integration is at obtaining the actual theoretical values of the integrals.
